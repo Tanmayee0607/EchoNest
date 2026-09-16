@@ -43,7 +43,6 @@ Users can review their consumption information and understand areas where sustai
 
 ## 🧠 How It Works
 
-```text
 User enters previous month's
 household consumption
           ↓
@@ -57,6 +56,8 @@ Personalized Sustainability
       Suggestions
           ↓
     User takes action
+
+    
 🛠️ Technology Stack
 
 Frontend
