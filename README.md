@@ -80,41 +80,14 @@ Node.js
 
 TypeScript
 
-## Tools
+## 🧰 Tools Used
 
-Git
-GitHub
-VS Code
-📁 Project Structure
-EchoNest/
-│
-├── client/
-│   ├── public/
-│   └── src/
-│       ├── components/
-│       ├── contexts/
-│       ├── hooks/
-│       ├── lib/
-│       ├── pages/
-│       ├── App.tsx
-│       ├── index.css
-│       └── main.tsx
-│
-├── server/
-│   └── index.ts
-│
-├── shared/
-│   └── const.ts
-│
-├── patches/
-│
-├── package.json
-├── package-lock.json
-├── vite.config.ts
-├── tsconfig.json
-└── README.md
-🚀 Getting Started
-Prerequisites
+- **Git** — Version control and tracking project changes
+- **GitHub** — Repository hosting and code management
+- **Visual Studio Code (VS Code)** — Code editing and development
+- **Manus** — Website development and deployment
+- **Vercel** — Web deployment and hosting
+- **npm** — Package and dependency management
 
 
 🌐 Live Project
