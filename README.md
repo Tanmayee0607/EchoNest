@@ -60,21 +60,27 @@ Personalized Sustainability
     
 🛠️ Technology Stack
 
-Frontend
+## Frontend
 
 React
+
 TypeScript
+
 Vite
+
 Tailwind CSS
+
 HTML5
+
 CSS3
 
-Backend
+## Backend
 
 Node.js
+
 TypeScript
 
-Tools
+## Tools
 
 Git
 GitHub
