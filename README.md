@@ -110,37 +110,13 @@ EchoNest/
 🚀 Getting Started
 Prerequisites
 
-Make sure you have installed:
-
-Node.js
-npm
-Git
-Installation
-
-Clone the repository:
-
-git clone https://github.com/Tanmayee0607/EchoNest.git
-
-Navigate into the project:
-
-cd EchoNest
-
-Install dependencies:
-
-npm install
-
-Start the development server:
-
-npm run dev
-
-The terminal will display the local URL where the application is running.
 
 🌐 Live Project
 
 EcoNest:
 https://econest-zpzauptk.manus.space
 
-🔮 Future Enhancements
+## 🔮 Future Enhancements
 📅 Monthly consumption history
 📈 Long-term sustainability trends
 🏆 Sustainability goals and achievements
@@ -162,7 +138,7 @@ EcoNest was developed as a Sustainability Engineering project that explores how 
 
 👩‍💻 Author
 
-Tanmayee
+B.R.Tanmayee
 
 Computer Science & Engineering — Data Science
 
